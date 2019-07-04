@@ -12,6 +12,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 To run unit test
+Using Jest && enzyme for unittest
 
 ### notes server API
 AT : http://5d1bf861dd81710014e88b3c.mockapi.io/api/notes
