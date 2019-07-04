@@ -27,7 +27,7 @@ const TextArea: React.FC<ITextAreaProps>
 
 TextArea.propTypes = {
   className: PropTypes.string,
-  name: PropTypes.string.isRequired,
+  name: PropTypes.string,
   value: PropTypes.string,
   placeholder: PropTypes.string,
   maxLength: PropTypes.number,
@@ -36,6 +36,7 @@ TextArea.propTypes = {
 
 TextArea.defaultProps = {
   className: undefined,
+  name: '',
   value: undefined,
   placeholder: undefined,
   maxLength: 600,
