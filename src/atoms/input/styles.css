@@ -1,0 +1,12 @@
+.input {
+  font-size: 14px;
+  line-height: 1.43;
+  border-radius: 5px;
+  border: solid 1px black;
+  width: 100%;
+  appearance: none;
+}
+
+.inputError{
+  border-color: red;
+}

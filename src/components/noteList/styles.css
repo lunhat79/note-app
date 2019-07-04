@@ -1,0 +1,10 @@
+.noteListContainer{
+  width: 100%;  
+}
+
+.noteItem {
+  margin: 10px;
+  display: flex;
+
+}
+
